@@ -1,5 +1,5 @@
 public class switch_case {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int day = 3;
         switch (day) {
             case 1:
